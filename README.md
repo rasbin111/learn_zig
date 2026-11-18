@@ -9,4 +9,5 @@ projects/
   |- ls/ - Zig 0.17
   |- cat/ - Zig 0.17
   |- wc/ - Zig 0.17
+  |- grep/ - Zig 0.17
 ```
